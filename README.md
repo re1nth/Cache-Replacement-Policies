@@ -1,4 +1,4 @@
-# Cache_Replacement_Policies
+# Cache Replacement Policies
 ### Implementation of different Replacement policies :
 - LRU Replacement Policy
 - FIFO Replacement Policy  
